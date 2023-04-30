@@ -26,10 +26,14 @@
 - Pruebas.
 
 ### Problema
-Adquirir y preparar los recursos necesarias para resolver los trabajos del curso.
-#### Restricciones
+
+- Adquirir y preparar los recursos necesarias para resolver los trabajos del curso.
+
+### Restricciones
+
 - Ninguna.
-Tareas
+
+### Tareas
       1.	Cuenta en GitHub
         a.	Si no tiene, cree una cuenta GitHub. 
         b.	Si no lo hizo, asocie a su cuenta GitHub el email @frba y verifique. Es posible asociar más de una cuenta email a una cuenta GitHub.
