@@ -29,7 +29,7 @@
 
 ### Restricciones
 
-- Ninguna.
+- Ninguna
 
 ### Tareas
 
@@ -48,12 +48,12 @@
     1. Seleccione, instale, y configure, y pruebe un compilador C11 o C18. Los mas osados pueden buscar un compilador que soporte C2x.
     2. Registre los resultados anteriores de la siguiente manera:
        1. Indique en el readme.md el compilador seleccionado.
-       2. Pruebe el compilador con un programa hello.c que envie a stdout la lmea Hello, World! o similar.
+       2. Pruebe el compilador con un programa hello.c que envie a stdout la línea Hello, World! o similar.
        3. Ejecute el programa y verifique que la salida es la esperada. 
        4. Ejecute el programa con la salida redireccionada a un archivo output.txt; verifique su contenido.
 
 4.	Publicación
-    1. Publique el trabajo en el repositorio personal SSL la carpeta 00- CHelloWorld con readme.md, hello.c, y output.txt.
+    - Publique el trabajo en el repositorio personal SSL la carpeta 00- CHelloWorld con readme.md, hello.c, y output.txt.
 
 5. Armado de Equipo
 
