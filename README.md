@@ -8,5 +8,4 @@ Legajo: 156218-6
 
 Apellido: Chvapil
 
-Nombre: Bruno
-
+Nombre: Bruno Maximiliano
