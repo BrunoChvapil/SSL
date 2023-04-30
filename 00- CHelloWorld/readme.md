@@ -39,20 +39,24 @@
     1. Si no tiene, cree una cuenta GitHub. 
     2. Si no lo hizo, asocie a su cuenta GitHub el email @frba y verifique. Es posible asociar más de una cuenta email a una cuenta GitHub.
     3. Si no lo hizo, indique que su cuenta email @frba es pública. Esto permite a la cátedra encontrar a los estudiantes. Si por temas de privacidad prefiere no              tener como publica esa dirección, puede cambiarla al final del proceso.
+
 2. Repositorio para público para la materia
     1. Cree un repositorio publico llamado SSL.
     2. En la raíz de ese repositorio, escriba el archivo readme.md que actúa como front page del repositorio personal.
     3. Cree la carpeta 00-CHelloworld.
     4. En esa carpeta, escriba un segundo archivo readme.md que actúa como front page de la resolución.
+
 3. Compilador
-        1.	Seleccione, instale, y configure, y pruebe un compilador C11 o C18. Los mas osados pueden buscar un compilador que soporte C2x.
-        2.	Registre los resultados anteriores de la siguiente manera:
-          1.	Indique en el readme.md el compilador seleccionado.
-          2.	Pruebe el compilador con un programa hello.c que envie a stdout la lmea Hello, World! o similar.
-          3.	Ejecute el programa y verifique que la salida es la esperada. 
-          4.	Ejecute el programa con la salida redireccionada a un archivo output.txt; verifique su contenido.
+    1. Seleccione, instale, y configure, y pruebe un compilador C11 o C18. Los mas osados pueden buscar un compilador que soporte C2x.
+    2. Registre los resultados anteriores de la siguiente manera:
+           1.	Indique en el readme.md el compilador seleccionado.
+           2.	Pruebe el compilador con un programa hello.c que envie a stdout la lmea Hello, World! o similar.
+           3.	Ejecute el programa y verifique que la salida es la esperada. 
+           4.	Ejecute el programa con la salida redireccionada a un archivo output.txt; verifique su contenido.
+
 4.	Publicación
-        a.	Publique el trabajo en el repositorio personal SSL la carpeta 00- CHelloWorld con readme.md, hello.c, y output.txt.
+    1. Publique el trabajo en el repositorio personal SSL la carpeta 00- CHelloWorld con readme.md, hello.c, y output.txt.
+
 5. Armado de Equipo.
           Aunque el trabajo es individual, fomentamos la colaboración entre compañeros para su resolución. Consideramos que es una buena oportunidad para armar equipo           para los trabajos siguientes que en su mayoría son grupales. El docente del curso indica la cantidad de integrantes mínima y máxima por equipo.
         1.	Informe el número de equipo en esta lista.
