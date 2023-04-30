@@ -1,18 +1,18 @@
 # Trabajo Nº 0
 
-##Autores de la resolución:
+## Autores de la resolución:
 
--Usuario github : BrunoChvapil
+- Usuario github : BrunoChvapil
 
--Legajo : 156218-6
+- Legajo : 156218-6
 
--Apellido: Chvapil
+- Apellido: Chvapil
 
--Nombre: Bruno Maximiliano
+- Nombre: Bruno Maximiliano
 
--Numero y titulo del trabajo.
+- Numero y titulo del trabajo.
 
-##Enunciado:
+## Enunciado:
 
 Objetivos
 •	Demostrar capacidad para editar, compilar, y ejecutar programas C mediante el desarrollo de un programa simple.
