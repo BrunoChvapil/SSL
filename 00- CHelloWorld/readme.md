@@ -58,7 +58,7 @@
     1. Publique el trabajo en el repositorio personal SSL la carpeta 00- CHelloWorld con readme.md, hello.c, y output.txt.
 
 5. Armado de Equipo.
-          Aunque el trabajo es individual, fomentamos la colaboración entre compañeros para su resolución. Consideramos que es una buena oportunidad para armar equipo           para los trabajos siguientes que en su mayoría son grupales. El docente del curso indica la cantidad de integrantes mínima y máxima por equipo.
-        1.	Informe el número de equipo en esta lista.
-            Con el número de equipo y cuenta @frba, la Catedra le envía la invitación al repositorio privado del equipo, por eso es importante que su cuenta GitHub                 tenga asociado como email público su email @frba, tal como indica el primer paso.
-        2.	Luego de aceptar la invitación al repositorio privado del equipo, si lo desea, puede cambiar el email público en GitHub.
+ Aunque el trabajo es individual, fomentamos la colaboración entre compañeros para su resolución. Consideramos que es una buena oportunidad para armar equipo           para los trabajos siguientes que en su mayoría son grupales. El docente del curso indica la cantidad de integrantes mínima y máxima por equipo.
+    1. Informe el número de equipo en esta lista.
+Con el número de equipo y cuenta @frba, la Catedra le envía la invitación al repositorio privado del equipo, por eso es importante que su cuenta GitHub                 tenga asociado como email público su email @frba, tal como indica el primer paso.
+    2. Luego de aceptar la invitación al repositorio privado del equipo, si lo desea, puede cambiar el email público en GitHub.
