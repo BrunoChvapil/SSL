@@ -27,8 +27,8 @@
 
 ### Problema
 Adquirir y preparar los recursos necesarias para resolver los trabajos del curso.
-Restricciones
-•	Ninguna.
+#### Restricciones
+- Ninguna.
 Tareas
       1.	Cuenta en GitHub
         a.	Si no tiene, cree una cuenta GitHub. 
