@@ -10,6 +10,8 @@
 
 - Nombre: Bruno Maximiliano
 
+- Compilador: `Mingw-w64 gcc.exe (Rev10, Built by MSYS2 project) 11.2.0`
+
 ## Enunciado:
 
 ### Objetivos
