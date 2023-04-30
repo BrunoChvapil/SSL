@@ -36,9 +36,9 @@
 ### Tareas
 
 1. Cuenta en GitHub
-        a.	Si no tiene, cree una cuenta GitHub. 
-        b.	Si no lo hizo, asocie a su cuenta GitHub el email @frba y verifique. Es posible asociar más de una cuenta email a una cuenta GitHub.
-        c.	Si no lo hizo, indique que su cuenta email @frba es pública. Esto permite a la cátedra encontrar a los estudiantes. Si por temas de privacidad prefiere no             tener como publica esa dirección, puede cambiarla al final del proceso.
+    1. Si no tiene, cree una cuenta GitHub. 
+    2. Si no lo hizo, asocie a su cuenta GitHub el email @frba y verifique. Es posible asociar más de una cuenta email a una cuenta GitHub.
+    3.	Si no lo hizo, indique que su cuenta email @frba es pública. Esto permite a la cátedra encontrar a los estudiantes. Si por temas de privacidad prefiere no             tener como publica esa dirección, puede cambiarla al final del proceso.
 2. Repositorio para público para la materia
     1. Cree un repositorio publico llamado SSL.
     2. En la raíz de ese repositorio, escriba el archivo readme.md que actúa como front page del repositorio personal.
