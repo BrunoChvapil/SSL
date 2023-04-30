@@ -1,4 +1,4 @@
-# Trabajo Nº 0
+# Trabajo Nº 0: "Hello, World!” en C
 
 ## Autores de la resolución:
 
@@ -9,8 +9,6 @@
 - Apellido: Chvapil
 
 - Nombre: Bruno Maximiliano
-
-- Numero y titulo del trabajo.
 
 ## Enunciado:
 
